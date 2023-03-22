@@ -7,4 +7,4 @@
   
 Use below command to execute 
 
-		mvn clean test
+		---  mvn clean test
